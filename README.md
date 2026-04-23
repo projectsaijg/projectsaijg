@@ -1,8 +1,6 @@
 ## Random AI Babbling
 
-Here we will explore how to locally use generative A.I. on mac OS.
-
-And to train models!
+Here we will explore how to locally use generative A.I. on mac OS. And to train models!
 
 
 Hardware:
