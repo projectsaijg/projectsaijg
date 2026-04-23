@@ -1,16 +1,16 @@
-## Hi there 👋
+## Random AI Babbling
 
-<!--
-**projectsaijg/projectsaijg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here we will explore how to locally use generative A.I. on mac OS.
+And to train models!
 
-Here are some ideas to get you started:
+Hardware:
+Apple M4 Max with 16 CPU cores, 40 GPU cores, 16 Neural Engine cores
+64 GB RAM
+2 TB SSD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Generative A.I.:
+- Text to image (Stable Diffusion XL, Flux2, Control Net...)
+- Image to Image (Flux2)
+- LLMs
+- Voice generation
+- Video
